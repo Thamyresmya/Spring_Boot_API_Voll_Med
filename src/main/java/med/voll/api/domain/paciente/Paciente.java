@@ -7,6 +7,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import med.voll.api.endereco.Endereco;
 
+
 @Getter
 @EqualsAndHashCode(of = "id")
 @NoArgsConstructor
@@ -50,9 +51,13 @@ public class Paciente {
     }
 
     public void inativar() {
+
         this.ativo = false;
     }
 
+    public void excluir() {
+        this.ativo = false;
+    }
 }
 
 
