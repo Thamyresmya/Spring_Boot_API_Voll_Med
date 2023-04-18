@@ -5,7 +5,7 @@ Projeto de desenvolvimento web Spring Boot 3
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Spring Boot Rest API**
-| :label: Tecnologias | Java, Spring Boot, 
+| :label: Tecnologias | Java, Spring Boot
 | :rocket: URL         | https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med
 | :fire: Desafio     | 
 
