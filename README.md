@@ -1,22 +1,21 @@
-# Projeto VOLL MED
-
-Projeto de desenvolvimento web Spring Boot 3
+# Projeto Clínica médica VOLL MED
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Spring Boot Rest API**
-| :label: Tecnologias | Java, Spring Boot
+| :label: Tecnologias | Java, Spring Boot, Spring Security, MySQL
 | :rocket: URL         | https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](capa.png)
+![](geral/Capa.png)
 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
- </p>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <br>
 
@@ -27,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Java
 - Spring Boot
+- Spring Security
+- insomnia
 - MySQL
 - Git e Github
 
@@ -34,14 +35,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Spring Boot 3: desenvolva uma API Rest em Java
-- Crie do zero uma API Rest em Java com Spring Boot
-- Desenvolva CRUDs utilizando o banco de dados MySQL
-- Utilize o Flyway como ferramenta de Migrations da API
-- Realize validações utilizando o Bean Validation
-- Realize paginação dos dados da API
+Nesse projeto aprendi a criar uma API Rest em Java com Spring Boot do zero, com as boas práticas REST.
+- Foi desenvolvido um CRUD (Create, Read, Update e Delete) utilizando o banco de dados MySQL e o Flyway como ferramenta de Migrations da API.
+- Validações utilizando o Bean Validation.
+- Paginação e ordenação dos dados da API.
+- Padronização dos retornos dos controllers, utilizando os códigos HTTP corretamente.
+- Tratamento de erros.
+- Controle de acesso com JWT.
+- Foi adicionado o módulo Spring Security, implementando um mecanismo de autenticação na API.
 
 <br>
+
 
 
 ## 📁 Acesso ao projeto
