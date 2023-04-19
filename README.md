@@ -46,7 +46,18 @@ Nesse projeto aprendi a criar uma API Rest em Java com Spring Boot do zero, com 
 
 <br>
 
+## 📸 Gif
+Geração de Token<br>
+<img width="70%" height="300" src="geral/img/1geração_token.png"></img>
 
+Cadastro de medico<br>
+<img width="70%" height="300" src="geral/img/2Cadastro_medico.png"></img>
+
+Listagem de todos os medico<br>
+<img width="70%" height="300" src="geral/img/3Listagem_medico.png"></img>
+
+Atualização telefone do médico Id: 1<br>
+<img width="70%" height="300" src="geral/img/4Atualizacao.png"></img>
 
 ## 📁 Acesso ao projeto
 
