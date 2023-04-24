@@ -1,9 +1,9 @@
-# Projeto Clínica médica VOLL MED
+# Projeto Clínica Médica VOLL MED
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Spring Boot Rest API**
-| :label: Tecnologias | Java, Spring Boot, Spring Security, MySQL
+| :label: Tecnologias | Java, Spring Boot, MySQL, Maven, Flyway, Lombok
 | :rocket: URL         | https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med
 
 ![](geral/Capa.png)
