@@ -5,14 +5,14 @@
 | :sparkles: Nome        | **Projeto Spring Boot Rest API**
 | :label: Tecnologias | Java, Spring Boot, Spring Security, MySQL
 | :rocket: URL         | https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med
-| :fire: Desafio     | 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](geral/Capa.png)
 
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-Documentação">Documentação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -22,14 +22,30 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
 
-- Java
-- Spring Boot
-- Spring Security
-- insomnia
+- Java 17
+- Spring Boot 3
 - MySQL
+- Maven
+- Hibernate
+- Flyway
+- Lombok
+- Spring Security
+- Insomnia
 - Git e Github
+
+<br>
+
+## 🎨 Layout
+
+O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+
+<br>
+
+## 📄 Documentação
+
+A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
 
 <br>
 
