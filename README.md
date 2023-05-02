@@ -33,6 +33,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - Lombok
 - Spring Security
 - Insomnia
+- JUnit
 - Git e Github
 
 <br>
