@@ -84,7 +84,7 @@ Atualização telefone do médico Id: 1<br>
 
 ## 📁 Acesso ao projeto
 
-O codigo fonte está disponível neste [link](https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med).
+O código fonte está disponível neste [link](https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med).
 
 <br>
 
