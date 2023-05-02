@@ -39,13 +39,13 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ## 🎨 Layout
 
-O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+O layout da aplicação mobile está disponível neste link : <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
 
 <br>
 
 ## 📄 Documentação
 
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
+A documentação das funcionalidades da aplicação pode ser acessada neste link : <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
 
 <br>
 
@@ -59,6 +59,13 @@ Nesse projeto aprendi a criar uma API Rest em Java com Spring Boot do zero, com 
 - Tratamento de erros.
 - Controle de acesso com JWT.
 - Foi adicionado o módulo Spring Security, implementando um mecanismo de autenticação na API.
+
+- Isolar códigos de regras de negócio em uma aplicação.
+- Implemar princípios SOLID.
+- foi documentado uma API seguindo o padrão OpenAPI.
+- Testes automatizados em uma aplicação com Spring Boot.
+- Realizar o build da aplicação.
+- Utilizar variáveis de ambiente e preparar a aplicação para o deploy.
 
 <br>
 
@@ -77,7 +84,7 @@ Atualização telefone do médico Id: 1<br>
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final](https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med).
+O codigo fonte está disponível neste [link](https://github.com/Thamyresmya/Spring_Boot_API_Voll_Med).
 
 <br>
 

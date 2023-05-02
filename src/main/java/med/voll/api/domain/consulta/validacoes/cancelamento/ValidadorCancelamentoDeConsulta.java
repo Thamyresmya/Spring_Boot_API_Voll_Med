@@ -1,4 +1,4 @@
-package med.voll.api.domain.consulta.validacoes;
+package med.voll.api.domain.consulta.validacoes.cancelamento;
 
 import med.voll.api.domain.consulta.DadosCancelamentoConsulta;
 
