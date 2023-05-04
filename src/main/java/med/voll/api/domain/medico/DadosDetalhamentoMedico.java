@@ -14,7 +14,7 @@ public record DadosDetalhamentoMedico(
 
     //contrutor
     public DadosDetalhamentoMedico(Medico medico) {
-        this(medico.getId(), medico.getEmail(), medico.getCrm(), medico.getNome(), medico.getTelefone(), medico.getEspecialidade(), medico.getEndereco());
+        this(medico.getId(), medico.getNome(), medico.getEmail(), medico.getTelefone(), medico.getCrm(), medico.getEspecialidade(), medico.getEndereco());
     }
 
 }
